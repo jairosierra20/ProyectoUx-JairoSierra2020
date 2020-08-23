@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "bc144df10a6c2bd97681e6f711110b35",
+    "revision": "d3635df21256eabc5de6a92bd265f2fb",
     "url": "/ProyectoUx-JairoSierra2020/index.html"
   },
   {
-    "revision": "200f38ccf44a142fe914",
+    "revision": "d508281965aa1e661a41",
     "url": "/ProyectoUx-JairoSierra2020/static/css/main.34de6062.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ProyectoUx-JairoSierra2020/static/js/2.e4a6447b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "200f38ccf44a142fe914",
-    "url": "/ProyectoUx-JairoSierra2020/static/js/main.3c91c72f.chunk.js"
+    "revision": "d508281965aa1e661a41",
+    "url": "/ProyectoUx-JairoSierra2020/static/js/main.f8e22a74.chunk.js"
   },
   {
     "revision": "1dbe802022296d56d43b",
